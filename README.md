@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on devloping website & internship
 - 📫 How to reach me - mayanksharma20004@gmail.com/mayank24204@gmail.com this is my email 
-- 😄 Pronouns: ...
+- 😄 My Linkdin - www.linkedin.com/in/mayank-sharma-382366292
 - ⚡ Fun fact:- i am a B-tech 3rd year student
 
 <!---
